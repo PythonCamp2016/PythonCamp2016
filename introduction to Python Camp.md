@@ -36,7 +36,8 @@ __< Python 관련 경험>__
 ### 신청 방법
 
 - 등록비: 2만원 (등록 취소 시, 환불하지 않음) 가계곤란자 면제 가능 (이메일로 요청)
-- 신청서 링크: [Python Camp 신청](http://me2.do/FtVLXq2K)
+- 신청서 링크: github.com에서 PythonCamp2016 검색<br>
+   [PythonCamp2016](http://me2.do/FtVLXq2K), HISNET 공지에도 있음.
 - 신청기간: 11.27 ~ 12.02(수) 자정까지 입금 바람
 
 ### 문의
